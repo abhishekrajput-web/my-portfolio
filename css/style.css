@@ -173,7 +173,7 @@ img {
     position: fixed;
     top: 0;
     left: -100%;
-    width: 80px;
+    width: 200px;
     height: 100vh;
     padding: 3rem;
     display: flex;
@@ -1015,6 +1015,13 @@ img {
     }
     .about {
         margin-top: var(--mb-8);
+    }
+}
+
+
+@media screen and (max-width:295px){
+    .nav-menu{
+        width: 120px;
     }
 }
 
