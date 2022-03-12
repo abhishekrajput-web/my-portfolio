@@ -64,67 +64,68 @@ const currentYear = new Date().getFullYear();
 const year = document.getElementById("year");
 year.innerText = currentYear;
 
-// SCROLLREVEALJS
+SCROLLREVEALJS
 
-// const sr = ScrollReveal({
-//     origin: "top",
-//     distance: "80px",
-//     duration: 2000,
-//     reset: true
-// });
+const sr = ScrollReveal({
+    origin: "top",
+    distance: "80px",
+    duration: 2000,
+    reset: true,
+    mobile: false
+});
 
-// // HOME SECTION
-// sr.reveal(".home-img", { delay: 100 });
-// sr.reveal(".home-title", { delay: 200 });
-// sr.reveal(".home-profession", { delay: 400 });
-// sr.reveal(".home-social-links", { interval: 200 });
-// sr.reveal(".home-button", { delay: 1000 });
+// HOME SECTION
+sr.reveal(".home-img", { delay: 100 });
+sr.reveal(".home-title", { delay: 200 });
+sr.reveal(".home-profession", { delay: 400 });
+sr.reveal(".home-social-links", { interval: 200 });
+sr.reveal(".home-button", { delay: 1000 });
 
-// // ABOUT SECTION
+//  ABOUT SECTION
 
-// sr.reveal(".about-description", {});
-// sr.reveal(".about-img", { delay: 200 });
-// sr.reveal(".about-information-title", { delay: 400 });
-// sr.reveal(".about-information-data", { interval: 200 });
-// sr.reveal(".home-button", { delay: 600 });
+sr.reveal(".about-description", {});
+sr.reveal(".about-img", { delay: 200 });
+sr.reveal(".about-information-title", { delay: 400 });
+sr.reveal(".about-information-data", { interval: 200 });
+sr.reveal(".home-button", { delay: 600 });
 
 // // SKILLS SECTION
-// sr.reveal(".skills-subtitle", {});
-// sr.reveal(".skills-data", { interval: 200 });
+sr.reveal(".skills-subtitle", {});
+sr.reveal(".skills-data", { interval: 200 });
 
 // // SKILLS PERFECT SECTION
-// sr.reveal(".tech-box", { interval: 200 });
+sr.reveal(".tech-box", { interval: 200 });
 
 // // EDUCATION SECTION
-// sr.reveal(".education-content", { interval: 200 });
+sr.reveal(".education-content", { interval: 200 });
 
 // // SERVICES SECTION
-// sr.reveal(".services-content", { interval: 200 });
+sr.reveal(".services-content", { interval: 200 });
 
 // // CERTIFICATES SECTION
-// sr.reveal(".certificate-box", { interval: 200 });
+sr.reveal(".certificate-box", { interval: 200 });
 
 // // PROJECTS SECTION
-// sr.reveal(".project-title", {});
-// sr.reveal(".project-description", { delay: 200 });
-// sr.reveal(".button-light", { delay: 400 });
-// sr.reveal(".project-img", { delay: 600 });
+sr.reveal(".project-title", {});
+sr.reveal(".project-description", { delay: 200 });
+sr.reveal(".button-light", { delay: 400 });
+sr.reveal(".project-img", { delay: 600 });
 
 
 // // WORKS SECTION
-// sr.reveal(".works-img", { interval: 200 });
+sr.reveal(".works-img", { interval: 200 });
 
 // // CONTACT SECTION
-// sr.reveal(".contact-input", { interval: 200 });
-// sr.reveal(".contact-button", { delay: 300 });
-// sr.reveal(".contact-subtitle", { delay: 500 });
-// sr.reveal(".contact-text", { delay: 700 });
+sr.reveal(".contact-input", { interval: 200 });
+sr.reveal(".contact-button", { delay: 300 });
+sr.reveal(".contact-subtitle", { delay: 500 });
+sr.reveal(".contact-text", { delay: 700 });
 
 // //FOOTER SECTION 
-// sr.reveal(".footer-title", {});
-// sr.reveal(".footer-description", { delay: 200 });
-// sr.reveal(".footer-link", { delay: 300 });
-// sr.reveal(".copyright", { delay: 400 });
+sr.reveal(".footer-title", {});
+sr.reveal(".footer-description", { delay: 200 });
+sr.reveal(".footer-link", { delay: 300 });
+sr.reveal(".copyright", { delay: 400 });
 
 
 // PRELOADER EFFECT
