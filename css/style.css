@@ -991,6 +991,9 @@ img {
     .tech-box {
         width: 300px;
     }
+    .contact-input{
+        width:90%;
+    }
 }
 
 @media screen and (max-width:336px) {
