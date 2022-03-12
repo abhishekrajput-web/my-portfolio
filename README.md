@@ -8,7 +8,7 @@
  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/94/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/94/000000/css3.png"/> </a> 
     <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/color/94/000000/javascript.png"/> </a> 
-       <a href="https://scrollrevealjs.org/" target="_blank"> <img style="margin-bottom:9px" src="https://scrollrevealjs.org/img/share.png" width="75" height="75"/> </a> 
+       <a href="https://scrollrevealjs.org/" target="_blank" style="margin:20px"> <img src="https://scrollrevealjs.org/img/share.png" width="75" height="75"/> </a> 
 </div>
 
 
