@@ -30,7 +30,7 @@
 <img style="margin-bottom:25px" src="img/website pics/website pics 9.jpeg">
 <img style="margin-bottom:25px" src="img/website pics/website pics 10.jpeg">
 
-<h2 style="color:white;margin-top:20px">Night Mode Pic<h2>
+<h2 style="color:white;margin-top:20px">Dark Mode Pic<h2>
 <img style="margin-bottom:25px" src="img/website pics/website pics night mode.jpeg">
 
 <h2 style="color:white;margin-top:20px">Author Info<h2>
