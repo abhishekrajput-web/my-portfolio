@@ -39,4 +39,3 @@
  <p>Author Linkedin  - <a href="https://linkedin.com/in/abhishek-rajput-58b5811a8">linkedin Profile</a></p>
 
 
-<p style="text-align:center;font-size:14px;margin-top:50px;">Abhsihek ©️ copyright 2022<p>
